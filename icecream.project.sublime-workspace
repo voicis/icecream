@@ -1,0 +1,471 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Ent",
+				"EntityManager"
+			],
+			[
+				"enti",
+				"EntityManager"
+			],
+			[
+				"WhateverAP",
+				"whateverAPIOptionsName"
+			],
+			[
+				"unread",
+				"unreadPosts"
+			],
+			[
+				"get_wpu_",
+				"get_wpu_unreadposts_link"
+			],
+			[
+				"html",
+				"htmlentities"
+			],
+			[
+				"parse",
+				"parse_wowhead"
+			],
+			[
+				"bos",
+				"boss-name"
+			],
+			[
+				"boss-",
+				"boss-url"
+			],
+			[
+				"whatever",
+				"whatever-api"
+			],
+			[
+				"new",
+				"new_url"
+			],
+			[
+				"ele",
+				"elements"
+			],
+			[
+				"list",
+				"listitems"
+			],
+			[
+				"getElem",
+				"getElementsByTagName"
+			],
+			[
+				"item",
+				"itemIds"
+			],
+			[
+				"url",
+				"url_for_slot"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"set_inner",
+				"set_inner_content"
+			],
+			[
+				"wpunited",
+				"wp-united"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"wow",
+				"wowprogressURL"
+			],
+			[
+				"co",
+				"code"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"row",
+				"rowdata"
+			],
+			[
+				"toolti",
+				"tooltipURL"
+			],
+			[
+				"dps",
+				"dpsCount"
+			],
+			[
+				"back",
+				"background-repeat"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "sftp-config.json",
+			"settings":
+			{
+				"buffer_size": 1371,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 380.0,
+		"selected_items":
+		[
+			[
+				"pack		",
+				"Package Control: Install Package"
+			],
+			[
+				"pack	",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"Packege ",
+				"Package Control: Enable Package"
+			],
+			[
+				"",
+				"Package Control: Add Repository"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Public/icecream.git/trunk/icecream.ftp",
+		"/C/Users/Public/icecream.git/trunk/sftp-config.json",
+		"/C/Users/Public/whatever/trunk/forum/.htaccess",
+		"/C/Users/Public/whatever/trunk/wp-content/themes/zeebizzcard/page.php",
+		"/C/Users/Public/whatever/trunk/forum/styles/prosilver/template/appform_body.html",
+		"/C/Users/Public/whatever/trunk/forum/language/en/mods/application.php",
+		"/C/Users/Public/whatever/trunk/forum/styles/prosilver/template/boostraidform_body.html",
+		"/C/Users/Public/whatever/trunk/wp-content/plugins/wp-united/template-integrator.php",
+		"/C/Users/Public/whatever/trunk/wp-content/plugins/wp-united/widgets.php",
+		"/C/Users/Public/whatever/trunk/wp-content/plugins/wp-united/wp-united.php",
+		"/C/Users/Public/whatever/trunk/forum/includes/functions.php",
+		"/C/Users/Public/whatever/trunk/forum/application.php",
+		"/C/Users/Public/whatever/trunk/wp-content/themes/zeebizzcard/style.css",
+		"/C/Users/Public/whatever/trunk/wp-content/plugins/whatever-api/whatever-admin.php",
+		"/C/Users/Public/whatever/trunk/wp-content/plugins/wp-united/css-magic.php",
+		"/C/Users/Public/whatever/trunk/forum/boost_raid.php",
+		"/C/Users/Public/whatever/trunk/wp-content/themes/zeebizzcard/includes/js/jscript.php",
+		"/C/Users/Public/whatever/trunk/wp-content/plugins/wp-united/theme/reset.css",
+		"/C/Users/Public/whatever/trunk/forum/styles/prosilver/theme/common.css",
+		"/C/Users/davis_000/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Public/whatever/trunk/wp-includes/theme-compat/header.php",
+		"/C/Users/Public/whatever/trunk/wp-content/themes/zeebizzcard/loop.php",
+		"/C/Users/Public/whatever/trunk/wp-admin/includes/class-wp-media-list-table.php",
+		"/C/Users/Public/whatever/trunk/forum/styles/prosilver/theme/forms.css",
+		"/C/Users/Public/whatever/trunk/forum/umil/style/app_style.css",
+		"/C/Users/Public/whatever/trunk/forum/umil/style/style.css",
+		"/C/Users/Public/whatever/trunk/forum/umil/style/overall_header.html",
+		"/C/Users/Public/whatever/trunk/forum/styles/prosilver/theme/app_style.css",
+		"/C/Users/Public/whatever/trunk/forum/styles/proFormell/theme/appstylesheet.css",
+		"/C/Users/Public/whatever/trunk/forum/umil/style/overall_footer.html",
+		"/C/Users/davis_000/AppData/Roaming/Sublime Text 3/Packages/User/HTML.sublime-settings",
+		"/C/Users/Public/whatever/trunk/wp-content/plugins/wow-guild-retrieve/wow-guild.php.mine",
+		"/C/Users/Public/whatever/trunk/forum/store/mods/application_form_1.0.1/root/language/en/mods/application.php",
+		"/C/Users/Public/whatever/trunk/forum/store/mods/application_form_1.0.1/root/application.php",
+		"/C/Users/Public/whatever/trunk/forum/store/mods/application_form_1.0.1/root/styles/prosilver/template/appform_body.html",
+		"/C/Users/Public/whatever/trunk/wp-includes/shortcodes.php",
+		"/C/Users/Public/whatever/trunk/wp-content/plugins/forms/application.php",
+		"/C/Users/Public/whatever/trunk/wp-content/plugins/wow-guild-retrieve/wow-guild.php",
+		"/C/Users/Public/whatever/trunk/wp-includes/functions.php",
+		"/C/Users/Public/whatever/trunk/forum/styles/proFormell/imageset/announce_read_locked.gif",
+		"/C/Users/Public/whatever/trunk/wp-includes/forms.php",
+		"/C/Users/Public/whatever/trunk/wp-includes/bookmark.php",
+		"/C/Users/Public/whatever/trunk/wp-includes/registration.php",
+		"/C/Users/Public/whatever/trunk/forum/styles/proFormell/template/overall_header.html",
+		"/C/Users/Public/whatever/trunk/forum/styles/proFormell/theme/common.css",
+		"/C/Users/Public/whatever/trunk/forum/styles/proFormell/theme/colours.css",
+		"/C/Users/Public/whatever/trunk/forum/cache/data_role_cache.php",
+		"/C/Users/Public/whatever/trunk/wp-content/plugins/forms/application-form.php",
+		"/C/Users/Public/whatever/trunk/forum/cache/data_cfg_theme_prosilver.php",
+		"/C/Users/Public/whatever/trunk/wp-content/themes/zeebizzcard/includes/theme-application.php",
+		"/C/Users/Public/whatever/trunk/forum/styles/prosilver/template/overall_header.html",
+		"/C/Users/Public/whatever/trunk/sftp-config.json",
+		"/C/Users/Public/whatever/trunk/wp-content/plugins/wp-united/theme/island-reset.css",
+		"/C/Users/Public/whatever/trunk/forum/styles/Attriuum/template/overall_header.html",
+		"/C/Users/Public/we.sublime-project",
+		"/C/Users/Public/whatever/trunk/forum/wp-united/style-fixer.php",
+		"/C/Users/Public/whatever/trunk/wp-content/plugins/wp-united/options.php",
+		"/C/Users/Public/whatever/trunk/forum/adm/index.php",
+		"/C/Users/Public/whatever/trunk/wp-content/plugins/wow-guild-retrieve/css/wgr.css",
+		"/C/Users/Public/whatever/trunk/wp-content/plugins/wow-guild-retrieve/js/wgr.js",
+		"/C/Users/Public/whatever/trunk/forum/adm/swatch.php",
+		"/C/Users/Public/whatever/trunk/wp-content/plugins/formidable/classes/controllers/FrmEntriesController.php",
+		"/C/Users/zethh/Documents/GitHub/whatever/wp-content/plugins/wow-guild-retrieve/wow-guild.php",
+		"/C/Users/zethh/Documents/GitHub/whatever/forum/search.php",
+		"/C/Users/zethh/Documents/GitHub/whatever/forum/viewforum.php",
+		"/C/Users/zethh/Documents/GitHub/whatever/forum/viewtopic.php",
+		"/C/Users/zethh/Documents/GitHub/whatever/forum/adm/style/acp_forums.html",
+		"/C/Users/zethh/Documents/GitHub/whatever/forum/includes/functions_display.php",
+		"/C/Users/zethh/Documents/GitHub/whatever/forum/includes/acp/acp_forums.php",
+		"/C/Users/zethh/Documents/GitHub/whatever/forum/language/en/acp/forums.php",
+		"/C/Users/zethh/Documents/GitHub/whatever/forum/language/en/acp/permissions_phpbb.php",
+		"/C/Users/zethh/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 330.0,
+		"where_history":
+		[
+			"C:\\Users\\Public\\whatever\\trunk\\forum\\includes",
+			"C:\\Users\\Public\\whatever\\trunk\\forum",
+			"C:\\Users\\Public\\whatever\\trunk\\wp-content\\plugins",
+			"C:\\Users\\Public\\whatever\\trunk\\forum",
+			"C:\\Users\\Public\\whatever\\trunk",
+			"C:\\Users\\Public\\whatever\\trunk\\wp-content\\plugins\\wp-united",
+			"C:\\Users\\Public\\whatever\\trunk\\wp-content\\plugins\\wp-united\\cache",
+			"C:\\Users\\Public\\whatever\\trunk\\wp-content\\plugins\\wp-united",
+			"C:\\Users\\Public\\whatever\\trunk\\forum",
+			"C:\\Users\\Public\\whatever\\trunk",
+			"C:\\Users\\Public\\whatever\\trunk\\wp-content\\themes\\zeebizzcard",
+			"C:\\Users\\Public\\whatever\\trunk\\wp-includes",
+			"C:\\Users\\Public\\whatever\\trunk",
+			"C:\\Users\\Public\\whatever\\trunk\\forum",
+			"C:\\Users\\Public\\whatever\\trunk\\forum\\styles\\proFormell",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"acl_getf",
+			"get_unread_topics",
+			"wp_parse_args",
+			"wpu_login_user_info",
+			"get_wpu_login_user_info",
+			"_wpu_process_args",
+			"get_unread_topics",
+			"gen_sort_selects",
+			"m_approve_fid_sql",
+			"widget_wp-united-latest-posts",
+			"newposts",
+			"_wpu_process_args",
+			"wpu_login_user_info",
+			"wp-united-loginuser-info",
+			"instance['new']",
+			"instance",
+			"new_posts",
+			"formset",
+			"admin.php",
+			"wp_register_script",
+			"wptuts_scripts_basic",
+			"font-family",
+			"login_box",
+			"the_title",
+			"the_title()",
+			"body_class",
+			"nav",
+			"bloginfo",
+			"admin_init",
+			"register_wgrsettings",
+			"admin_init",
+			"wgr",
+			"header",
+			"common.css",
+			".menu",
+			"wpucssmagic",
+			"get_countries",
+			"import_choices",
+			"code, pre {\n	padding: 3px 8px;\n	margin: 0 1px;\n	background: #eeeeee;\n	color: #222 !important;\n	font-size: 0.9em;\n	font-family: Monospace, \"Courier New\", Courier;\n	overflow: auto;\n}",
+			"'acl_f_noapprove'	=> array('lang' => 'Can post without approval', 'cat' => 'misc'),",
+			"'S_PRUNE_ENABLE'			=> ($forum_data['enable_prune']) ? true : false,",
+			"'TOPICS_PER_PAGE'			=> $forum_data['forum_topics_per_page'],",
+			"'forum_style'			=> request_var('forum_style', 0),",
+			"<dl>\n			<dt><label for=\"topics_per_page\">{L_FORUM_TOPICS_PAGE}:</label><br /><span>{L_FORUM_TOPICS_PAGE_EXPLAIN}</span></dt>\n			<dd><input type=\"text\" id=\"topics_per_page\" name=\"topics_per_page\" value=\"{TOPICS_PER_PAGE}\" size=\"4\" maxlength=\"4\" /></dd>\n		</dl>",
+			"$sql = 'SELECT t.topic_id\n	FROM ' . TOPICS_TABLE . \" t\n	WHERE $sql_where\n		AND t.topic_type IN (\" . POST_NORMAL . ', ' . POST_STICKY . \")\n		$sql_approved",
+			"if ($row['forum_password'] && $row['user_id'] != $user->data['user_id'])\n		{\n			$ex_fid_ary[] = (int) $row['forum_id'];\n			continue;\n		}"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "sftp-config.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1371,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								251,
+								251
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 51.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 118.0
+	},
+	"project": "icecream.project.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 416.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 325.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
