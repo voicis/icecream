@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<title>Forum   - icecream</title>
+<meta property="template" content="parabola" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="http://www.icecream-guild.com/xmlrpc.php" />
+<link rel="alternate" type="application/rss+xml" title="icecream &raquo; Feed" href="http://www.icecream-guild.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="icecream &raquo; Comments Feed" href="http://www.icecream-guild.com/comments/feed/" />
+<link rel='stylesheet' id='wgrstyle-css'  href='http://www.icecream-guild.com/wp-content/plugins/wow-guild-retrieve/css/wgr.css?ver=3.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='parabolas-css'  href='http://www.icecream-guild.com/wp-content/themes/parabola/style.css?ver=3.8.2' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.icecream-guild.com/wp-content/plugins/wow-guild-retrieve/js/keen.io.js?ver=3.8.2'></script>
+<script type='text/javascript' src='http://www.icecream-guild.com/wp-includes/js/jquery/jquery.js?ver=1.10.2'></script>
+<script type='text/javascript' src='http://www.icecream-guild.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://www.icecream-guild.com/wp-content/plugins/wow-guild-retrieve/js/wgr.js?ver=3.8.2'></script>
+<script type='text/javascript' src='http://www.icecream-guild.com/wp-content/themes/parabola/js/frontend.js?ver=3.8.2'></script>
+<script type='text/javascript' src='http://www.icecream-guild.com/wp-includes/js/comment-reply.min.js?ver=3.8.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.icecream-guild.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.icecream-guild.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='next' title='Recruitment' href='http://www.icecream-guild.com/recruitment/' />
+<meta name="generator" content="WordPress 3.8.2" />
+<link rel='canonical' href='http://icecream-guild.com/forum/index.php?sid=30f05ba627068ef0397ba80caa1d5cfc' />
+<link rel='shortlink' href='http://www.icecream-guild.com/?p=10' />
+<!--[**HEAD_MARKER**]--><style type="text/css"> #header, #access, #colophon, #branding, #main, .topmenu { width: 1050px; } #header-full, #footer { min-width: 1050px; } #container.one-column { } #container.two-columns-right #secondary { width:250px; float:right; } #container.two-columns-right #content { width:780px; float:left; } #container.two-columns-left #primary { width:250px; float:left; } #container.two-columns-left #content { width:780px; float:right; } #container.three-columns-right .sidey { width:125px; float:left; } #container.three-columns-right #primary { margin-left:20px; margin-right:20px; } #container.three-columns-right #content { width:760px; float:left; } #container.three-columns-left .sidey { width:125px; float:left; } #container.three-columns-left #secondary { margin-left:20px;margin-right:20px; } #container.three-columns-left #content { width:760px; float:right;} #container.three-columns-sided .sidey { width:125px; float:left; } #container.three-columns-sided #secondary { float:right; } #container.three-columns-sided #content { width:760px; float:right; margin: 0 145px 0 -1050px; } body { font-family: Open Sans; } #content h1.entry-title a, #content h2.entry-title a, #content h1.entry-title , #content h2.entry-title { font-family: Bebas Neue; } .widget-title, .widget-title a { line-height: normal; font-family: Bebas Neue; } .entry-content h1, .entry-content h2, .entry-content h3, .entry-content h4, .entry-content h5, .entry-content h6, #comments #reply-title { font-family: Yanone Kaffeesatz Regular; } #site-title span a { font-family: Oswald Stencil; } #access ul li a, #access ul li a span { font-family: Open Sans; } body { color: #333333; background-color: #F7F7F2 } a { color: #BF4D28; } a:hover { color: #E6AC27; } #header-full { background-color: #FFFFFF; } #site-title span a { color:#BF4D28; } #site-description { color:#444444; } .socials a { background-color: #BF4D28; } .socials-hover { background-color: #333333; } .breadcrumbs:before { border-color: transparent transparent transparent #333333; } #access a { color: #EEEEEE; background-color: #333333; } #access a:hover { color: #E6AC27; background-color: #444444; } #access > .menu > ul > li > a:after, #access > .menu > ul ul:after { border-color: transparent transparent #BF4D28 transparent; } #access ul li:hover a:after { border-bottom-color:#E6AC27;} #access ul li.current_page_item > a, #access ul li.current-menu-item > a, /*#access ul li.current_page_parent > a, #access ul li.current-menu-parent > a,*/ #access ul li.current_page_ancestor > a, #access ul li.current-menu-ancestor > a { color: #FFFFFF; background-color: #000000; } #access ul li.current_page_item > a:hover, #access ul li.current-menu-item > a:hover, /*#access ul li.current_page_parent > a:hover, #access ul li.current-menu-parent > a:hover,*/ #access ul li.current_page_ancestor > a:hover, #access ul li.current-menu-ancestor > a:hover { color: #E6AC27; } .topmenu ul li a { color: #666666; } .topmenu ul li a:before { border-color: #BF4D28 transparent transparent transparent; } .topmenu ul li a:hover:before{border-top-color:#E6AC27} .topmenu ul li a:hover { color: #666666; background-color: #FFFFFF; } div.post, div.page, div.hentry, #comments, .comments, .column-text, .column-image, #srights, #slefts, #frontpage blockquote, .page-title, .page-header, article.post, article.page, article.hentry, .contentsearch, #author-info, #nav-below, .yoyo > li { background-color: #FFFFFF; } div.post, div.page, div.hentry, .sidey .widget-container, #comments, .commentlist .comment-body, article.post, article.page, article.hentry, #nav-below, .page-header, .yoyo > li { border-color: #EEEEEE; } #author-info, #entry-author-info { border-color: #F7F7F7; } #entry-author-info #author-avatar, #author-info #author-avatar { border-color: #EEEEEE; } article.sticky { box-shadow:0 0 1px rgba(230,172,39,1) inset; border-color:#FFFFFF} .sidey .widget-container { color: #333333; background-color: #FFFFFF; } .sidey .widget-title { color: #FFFFFF; background-color: #444444; } .sidey .widget-title:after { border-color: transparent transparent #BF4D28; } .entry-content h1, .entry-content h2, .entry-content h3, .entry-content h4, .entry-content h5, .entry-content h6 { color: #444444; } .entry-title, .entry-title a { color: #444444; } .entry-title a:hover { color: #000000; } #content h3.entry-format { color: #EEEEEE; background-color: #333333; border-color: #333333; } #content h3.entry-format { color: #EEEEEE; background-color: #333333; border-color: #333333; } .comments-link { background-color: #F7F7F7; } .comments-link:before { border-color: #F7F7F7 transparent transparent; } #footer { color: #AAAAAA; background-color: #1A1917; } #footer2 { color: #AAAAAA; background-color: #131211; border-color:rgba(255,255,255,.1); } #footer a { color: #BF4D28; } #footer a:hover { color: #E6AC27; } #footer2 a { color: #BF4D28; } #footer2 a:hover { color: #E6AC27; } #footer .widget-container { color: #333333; background-color: #FFFFFF; } #footer .widget-title { color: #FFFFFF; background-color: #444444; } #footer .widget-title:after { border-color: transparent transparent #BF4D28; } .footermenu ul li a:after { border-color: transparent transparent #BF4D28 transparent; } a.continue-reading-link { color:#EEEEEE !important; background:#333333; border-color:##EEEEEE; } a.continue-reading-link:hover { background-color:#BF4D28; } .file, .button, #respond .form-submit input#submit { background-color: #FFFFFF; border-color: #CCCCCC; box-shadow: 0 -10px 10px 0 #F7F7F7 inset; } .file:hover, .button:hover, #respond .form-submit input#submit:hover { background-color: #F7F7F7; } .entry-content tr th, .entry-content thead th { color: #FFFFFF; background-color: #444444; } .entry-content fieldset, #content tr td { border-color: #CCCCCC; } hr { background-color: #CCCCCC; } input[type="text"], input[type="password"], input[type="email"], input[type="file"], textarea, select, input[type="color"],input[type="date"],input[type="datetime"],input[type="datetime-local"],input[type="month"],input[type="number"],input[type="range"], input[type="search"],input[type="tel"],input[type="time"],input[type="url"],input[type="week"] { background-color: #F7F7F7; border-color: #CCCCCC #EEEEEE #EEEEEE #CCCCCC; color: #333333; } input[type="submit"], input[type="reset"] { color: #333333; background-color: #FFFFFF; border-color: #CCCCCC; box-shadow: 0 -10px 10px 0 #F7F7F7 inset; } input[type="text"]:hover, input[type="password"]:hover, input[type="email"]:hover, textarea:hover, input[type="color"]:hover, input[type="date"]:hover, input[type="datetime"]:hover, input[type="datetime-local"]:hover, input[type="month"]:hover, input[type="number"]:hover, input[type="range"]:hover, input[type="search"]:hover, input[type="tel"]:hover, input[type="time"]:hover, input[type="url"]:hover, input[type="week"]:hover { background-color: rgb(247,247,247); background-color: rgba(247,247,247,0.4); } .entry-content code { border-color: #CCCCCC; background-color: #F7F7F7; } .entry-content pre { background-color: #F7F7F7; } .entry-content blockquote { border-color: #BF4D28; background-color: #F7F7F7; } abbr, acronym { border-color: #333333; } span.edit-link { color: #333333; background-color: #EEEEEE; border-color: #F7F7F7; } .meta-border .entry-meta span, .meta-border .entry-utility span.bl_posted { border-color: #F7F7F7; } .meta-accented .entry-meta span, .meta-accented .entry-utility span.bl_posted { background-color: #EEEEEE; border-color: #F7F7F7; } .comment-meta a { color: #333333; } .comment-author { background-color: #F7F7F7; } .comment-details:after { border-color: transparent transparent transparent #F7F7F7; } #respond .form-allowed-tags { color: #999999; } .reply a { background-color: #F7F7F7; border-color: #EEEEEE; } .reply a:hover { background-color: #333333;color: #BF4D28; } .nav-next a:hover { background:-moz-linear-gradient(left, #FFFFFF, #F7F7F7); background:-webkit-linear-gradient(left, #FFFFFF, #F7F7F7); background:-ms-linear-gradient(left, #FFFFFF, #F7F7F7); background:-o-linear-gradient(left, #FFFFFF, #F7F7F7); background:linear-gradient(left, #FFFFFF, #F7F7F7); } .nav-previous a:hover { background: -moz-linear-gradient(left, #F7F7F7, #FFFFFF); background: -webkit-linear-gradient(left, #F7F7F7, #FFFFFF); background: -ms-linear-gradient(left, #F7F7F7, #FFFFFF); background: -o-linear-gradient(left, #F7F7F7, #FFFFFF); background: linear-gradient(left, #F7F7F7, #FFFFFF); } .pagination .current { font-weight: bold; } .pagination span, .pagination a { background-color: #FFFFFF; } .pagination a:hover { background-color: #333333;color:#BF4D28} .page-link em {background-color: #333333; color:#EEEEEE; color:#BF4D28;} .page-link a em {color:#E6AC27;} .page-link a:hover em {background-color:#444444;} #searchform input[type="text"] {color:#999999;} #toTop {border-color:transparent transparent #131211;} #toTop:after {border-color:transparent transparent #FFFFFF;} #toTop:hover:after {border-bottom-color:#BF4D28;} .caption-accented .wp-caption { background-color:rgb(191,77,40); background-color:rgba(191,77,40,0.8); color:#FFFFFF} .meta-themed .entry-meta span { color: #999999; background-color: #F7F7F7; border-color: #EEEEEE; } .meta-themed .entry-meta span:hover { background-color: #EEEEEE; } .meta-themed .entry-meta span a:hover { color: #333333; } #content p, #content ul, #content ol, #content, #frontpage blockquote { text-align:Default ; } #content p, #content ul, #content ol, .sidey, .sidey a, table, table td { font-size:14px; word-spacing:Default; letter-spacing:Default; } #content p, #content ul, #content ol, .sidey, .sidey a { line-height:1.7em; } #content h1.entry-title, #content h2.entry-title { font-size:34px ;} .widget-title, .widget-title a { font-size:18px ;} #content .entry-content h1 { font-size: 38px;} #content .entry-content h2 { font-size: 34px;} #content .entry-content h3 { font-size: 29px;} #content .entry-content h4 { font-size: 24px;} #content .entry-content h5 { font-size: 19px;} #content .entry-content h6 { font-size: 14px;} #site-title span a { font-size:38px ;} #access ul li a { font-size:14px ;} #access ul ul ul a {font-size:12px;} .nocomments, .nocomments2 {display:none;} #header-container > div { margin:40px 0 0 0px;} article.post .comments-link { display:none; } .entry-meta span.bl_categ { display:none; } .entry-meta .footer-tags, .entry-utility .footer-tags { display:none; } #content p, #content ul, #content ol, #content dd, #content pre, #content hr { margin-bottom: 1.0em; } #content div.entry-meta { display:none; } #branding { height:120px; } </style> 
+<style type="text/css">/* Parabola Custom CSS */</style>
+
+<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
+<link rel='stylesheet' id='parabola_style_mobile'  href='http://www.icecream-guild.com/wp-content/themes/parabola/styles/style-mobile.css' type='text/css' media='all' /><script type="text/javascript">var cryout_global_content_width = 800;</script><!--[if lt IE 9]>
+<script>
+document.createElement('header');
+document.createElement('nav');
+document.createElement('section');
+document.createElement('article');
+document.createElement('aside');
+document.createElement('footer');
+</script>
+<![endif]-->
+<script type="text/javascript">
+function makeDoubleDelegate(function1, function2) {
+	// concatenate functions
+    return function() { if (function1) function1(); if (function2) function2(); }
+}
+
+function parabola_onload() {
+    // Add responsive videos
+     jQuery(".entry-content").fitVids();
+	}; // parabola_onload
+
+jQuery(document).ready(function(){
+	// Add select navigation to small screens
+     jQuery("#access > .menu > ul").tinyNav({
+          	header: ' = Menu = ' // Show header instead of the active item
+			});
+});
+
+// make sure not to lose previous onload events
+window.onload = makeDoubleDelegate(window.onload, parabola_onload );
+</script>
+</head>
+<body class="page page-id-10 page-template-default logged-in parabola-image-five caption-light meta-light">
+
+<div id="toTop"> </div>
+<div id="wrapper" class="hfeed">
+
+
+<div id="header-full">
+
+<header id="header">
+
+
+		<div id="masthead">
+
+			<div id="branding" role="banner" >
+
+				<div id="header-container">
+<div><div id="site-title"><span> <a href="http://www.icecream-guild.com/" title="icecream" rel="home">icecream</a> </span></div><div id="site-description" >Auchindoun-EU</div></div></div>				<div style="clear:both;"></div>
+
+			</div><!-- #branding -->
+
+			<nav id="access" role="navigation">
+
+				<div class="skip-link screen-reader-text"><a href="#content" title="Skip to content">Skip to content</a></div>
+<div class="menu"><ul id="prime_nav" class="menu"><li id="menu-item-11" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-11"><a href="http://www.icecream-guild.com"><span>Home</span></a></li>
+<li id="menu-item-13" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-10 current_page_item menu-item-13"><a href="http://icecream-guild.com/forum/index.php?sid=30f05ba627068ef0397ba80caa1d5cfc"><span>Forum</span></a></li>
+<li id="menu-item-7" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7"><a target="_blank" href="http://www.warcraftlogs.com/guilds/2564/"><span>Logs</span></a></li>
+<li id="menu-item-26" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26"><a href="http://www.icecream-guild.com/roster/"><span>Roster</span></a></li>
+</ul></div>
+			</nav><!-- #access -->
+
+		</div><!-- #masthead -->
+
+	<div style="clear:both;height:1px;width:1px;"> </div>
+
+</header><!-- #header -->
+</div><!-- #header-full -->
+<div id="main">
+	<div  id="forbottom" >
+		
+		<div style="clear:both;"> </div>
+
+		<!--[**INNER_CONTENT**]--><!--cached-->	<div style="clear:both;"></div>
+	</div> <!-- #forbottom -->
+	</div><!-- #main -->
+
+
+	<footer id="footer" role="contentinfo">
+		<div id="colophon">
+		
+			
+			
+		</div><!-- #colophon -->
+
+		<div id="footer2">
+		
+			<nav class="footermenu"><ul id="menu-menu" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-11"><a href="http://www.icecream-guild.com">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-10 current_page_item menu-item-13"><a href="http://icecream-guild.com/forum/index.php?sid=30f05ba627068ef0397ba80caa1d5cfc">Forum</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7"><a target="_blank" href="http://www.warcraftlogs.com/guilds/2564/">Logs</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26"><a href="http://www.icecream-guild.com/roster/">Roster</a></li>
+</ul></nav>	<div style="text-align:center;padding:5px 0 2px;text-transform:uppercase;font-size:11px;">
+	Powered by <a target="_blank" href="http://www.cryoutcreations.eu" title="Parabola Theme by Cryout Creations">Pa&#1103;abola</a> &amp; <a target="_blank" href="http://wordpress.org/"
+			title="Semantic Personal Publishing Platform">  WordPress.		</a>
+	</div><!-- #site-info -->
+				
+		</div><!-- #footer2 -->
+
+	</footer><!-- #footer -->
+
+</div><!-- #wrapper -->
+
+
+</body>
+</html>

@@ -1,0 +1,1 @@
+[22-Mar-2014 14:09:17 UTC] PHP Fatal error:  Call to undefined function wp_enqueue_script() in /home/zethh/public_html/whatever/wp-content/plugins/wow-guild-retrieve/wow-guild.php on line 27
